@@ -10,4 +10,4 @@ You are here!
 
 ## Blog
 
-* https://millsfield.sfomuseum.org/blob
+* https://millsfield.sfomuseum.org/blog
